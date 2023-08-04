@@ -15,4 +15,6 @@ Yamuna.V /README.md
 📫 Portfolio Links ---https://www.datascienceportfol.io/yamuna
 
 📫 Tableau Link ---https://public.tableau.com/app/profile/yamuna.v8359
- 
+
+ ![68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f783435493843593156733435472f67697068792e676966](https://github.com/YAMUNAVV/YAMUNAVV/assets/124666569/df831a18-812a-4924-bd5d-052fdefc6e11)
+
