@@ -4,7 +4,7 @@ Yamuna.V /README.md
 
 ☀️ I use Jupyter notebook for my projects and work.
 
-🤹 My skill set includes Python | Machine Learning | Tableau | SQL | Statistics | EDA - AutoEDA| MS-Excel|Power BI|
+🤹 My skill set includes Python | Machine Learning | Data Visualization | SQL | Statistics | EDA - Feature Engineering | MS-Excel | Power BI|
 
 👀 I’m interested in learning new skills and tools that would challenge me.
 
@@ -12,9 +12,10 @@ Yamuna.V /README.md
 
 📫 How to reach me linkedin links--- https://www.linkedin.com/in/yamuna-v-121978265/
 
-📫 Portfolio Links ---https://www.datascienceportfol.io/yamuna
+📫 Portfolio Links ---https://chennayamuna07.wixsite.com/yamuna
 
 📫 Tableau Link ---https://public.tableau.com/app/profile/yamuna.v8359
 
- ![68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f783435493843593156733435472f67697068792e676966](https://github.com/YAMUNAVV/YAMUNAVV/assets/124666569/df831a18-812a-4924-bd5d-052fdefc6e11)
+ ![Data_Team_No_Gradient](https://github.com/YAMUNAVV/YAMUNAVV/assets/124666569/21adbc9d-2960-433b-8ecf-2061b7330743)
+
 
