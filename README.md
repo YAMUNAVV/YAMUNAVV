@@ -16,6 +16,9 @@ Yamuna.V /README.md
 
 📫 Tableau Link ---https://public.tableau.com/app/profile/yamuna.v8359
 
- ![Data_Team_No_Gradient](https://github.com/YAMUNAVV/YAMUNAVV/assets/124666569/21adbc9d-2960-433b-8ecf-2061b7330743)
+![1626753867110](https://github.com/YAMUNAVV/YAMUNAVV/assets/124666569/ff04db49-ddad-41ab-be54-08499815ecde)
+ ![Data_Team_No_Gradient](https://github.com/YAMUNAVV/YAMUNAVV/assets/124666569/21adbc9d-2960-433b-8ecf-2061b7330743) ![0_CHs47eo87tMPd_-q]
+
+
 
 
