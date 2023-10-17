@@ -1,6 +1,6 @@
 Yamuna.V /README.md
 
-👋 Hi, I’m @Yamunah V,I'm an early-career Self Taught Data Science Domain with a curiosity and passion for creative problem solving.
+👋 Hi, I’m @Yamuna V,I'm an early-career Self Taught Data Science Domain with a curiosity and passion for creative problem solving.
 
 ☀️ I use Jupyter notebook for my projects and work.
 
